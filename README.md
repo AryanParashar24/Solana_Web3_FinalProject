@@ -7,7 +7,7 @@ It involes intercating different packages for accessing and interacting with web
 
 It would include generating and minting NFT tokens which will include getting them ready to get classified and arranged in different colors and functionalities as well which are all specified in .yaml file in the String data types. 
 
-It will hten proceed with the task of Transferring NFTs and will also put together the knowledge of Burnign em which means destroying them if required just for the general Educational purposes, otherwise who would possibly Burn their Tokens just for fun.
+It will then proceed with the task of Transferring NFTs and will also put together the knowledge of Burning em' which means destroying them if required just for the general Educational purposes, otherwise who would possibly Burn their Tokens just for fun.
 
 Along with it the solana balances are checked using the terminal command line
 
